@@ -1,0 +1,2 @@
+1. Utilice simplemente un index.html para crear el espacio donde escribi sobre mi y la estructura en la que se mostrara la informacion.
+1. Luego cree un archivo css para darle un poco de formato e identacion a mi index.html.
